@@ -27,3 +27,16 @@ dist/
 
 # Environment Variables
 .env
+
+
+# CatBoost
+catboost_info/
+
+# Python package metadata
+*.egg-info/
+
+# Cache
+*.pyc
+
+# Logs
+logs/

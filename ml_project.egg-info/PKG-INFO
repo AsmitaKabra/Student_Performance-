@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: ml_project
+Version: 0.0.1
+Author: Asmita
+Author-email: asmita.kabra49@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+catboost
+xgboost
+dill
+streamlit
+#-e.
+#automatically triggers setup.py
